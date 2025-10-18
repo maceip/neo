@@ -23,10 +23,10 @@ const instrumentSansFont = Instrument_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Evil Charts - Beautiful & Animated Charts",
+  title: "Kontext Lab",
   description:
-    "Evil Charts is a library of beautiful charts components that are easy to use and customize. It is built with Tailwind CSS and React. Built on top of shadcn/recharts.",
-  metadataBase: new URL("https://evilcharts.com"),
+    "Kontext Lab researches and implements cutting-edge identity, authorization, and authentication systems to address the foundational challenges of digital trust within emerging AI ecosystems.",
+  metadataBase: new URL("https://kontext.dev"),
   openGraph: {
     images: ["/banner.png"],
   },
