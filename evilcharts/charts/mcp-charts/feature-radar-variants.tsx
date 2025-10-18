@@ -107,15 +107,11 @@ export function FeatureRadarBarChart({ snapshots }: { snapshots: Snapshot[] }) {
               cursor={false}
               content={<ChartTooltipContent hideLabel />}
             />
-            {result.data.map((item) => (
-              <Bar
-                key={item.feature}
-                dataKey="adoption"
-                data={[item]}
-                fill={chartConfig[item.feature as keyof typeof chartConfig].color}
-                radius={8}
-              />
-            ))}
+            <Bar
+              dataKey="adoption"
+              fill="#8884d8"
+              radius={8}
+            />
           </BarChart>
         </ChartContainer>
       </CardContent>
