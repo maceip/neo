@@ -51,7 +51,7 @@ export default function RootLayout({
         )}
         suppressHydrationWarning
       >
-        <ThemeProvider defaultTheme="system" attribute="class">
+        <ThemeProvider defaultTheme="dark" attribute="class" enableSystem={false} forcedTheme="dark">
           <MicrosoftClarity />
           <Analytics />
           <VercelAnalytics />
