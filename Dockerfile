@@ -1,22 +1,25 @@
 # Multi-stage build for fast boot times - builds evilcharts Next.js app
-FROM oven/bun:1.3-alpine AS builder
+FROM node:20-alpine AS builder
 
 WORKDIR /app
+
+# Install yarn
+RUN corepack enable && corepack prepare yarn@1.22.22 --activate
 
 # Copy evilcharts dependency files
 COPY evilcharts/package.json evilcharts/yarn.lock ./
 
-# Install dependencies with Bun
-RUN bun install
+# Install dependencies with yarn
+RUN yarn install --frozen-lockfile
 
 # Copy evilcharts source code
 COPY evilcharts/ ./
 
 # Build the Next.js app
-RUN bun run build
+RUN yarn build
 
 # Production stage - minimal image for fast startup
-FROM oven/bun:1.3-alpine
+FROM node:20-alpine
 
 WORKDIR /app
 
@@ -34,4 +37,4 @@ ENV NODE_ENV=production
 ENV HOSTNAME=0.0.0.0
 
 # Start the server
-CMD ["bun", "server.js"]
+CMD ["node", "server.js"]
