@@ -13,3 +13,10 @@ README.md
 *.log
 dist
 coverage
+src
+static
+.github
+evilcharts/node_modules
+evilcharts/.next
+evilcharts/.git
+evilcharts/.cursor
