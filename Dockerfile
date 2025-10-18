@@ -4,10 +4,10 @@ FROM oven/bun:1.3-alpine AS builder
 WORKDIR /app
 
 # Copy evilcharts dependency files
-COPY evilcharts/package.json evilcharts/bun.lock* evilcharts/yarn.lock* ./
+COPY evilcharts/package.json evilcharts/yarn.lock ./
 
-# Install dependencies with Bun (faster than yarn)
-RUN bun install --frozen-lockfile
+# Install dependencies with Bun
+RUN bun install
 
 # Copy evilcharts source code
 COPY evilcharts/ ./
