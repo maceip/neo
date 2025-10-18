@@ -1,0 +1,555 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://res.cloudinary.com/dimqqmfx6/image/upload/v1753745677/website/new%20home/icon_1_jv9gqc.png">
+        <link rel="android-chrome" sizes="192x192" href="https://res.cloudinary.com/dimqqmfx6/image/upload/v1753745677/website/new%20home/icon_1_jv9gqc.png">
+        <link rel="icon" type="image/png" href="https://res.cloudinary.com/dimqqmfx6/image/upload/v1752448563/website/new%20home/favicon_12_owmwad.png">
+        <meta property="og:title" content="Simtheory: Get More Done with An AI Workspace" />
+        <meta property="og:description" content="Simtheory: Your all-in-one AI workspace. Boost productivity, tackle complex projects, and unlock new possibilities with our powerful suite of AI tools. Transform the way you work, learn, and create." />
+        <meta property="og:image" content="https://res.cloudinary.com/dimqqmfx6/image/upload/v1743071396/website/og/default_og_2_jmejrx.png" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Simtheory" />
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-M32DS87P');</script>
+        <!-- End Google Tag Manager -->
+        <!-- Ortto tdia capture code -->
+        <script src="https://simtheorylive.blob.core.windows.net/static/js/website/video-switcher.adb0765fbe17.js"></script>
+        <script>
+            window.ap3c = window.ap3c || {};
+            var ap3c = window.ap3c;
+            ap3c.cmd = ap3c.cmd || [];
+            ap3c.cmd.push(function() {
+                ap3c.init('ZR9ln5TanClPiH61dGRpYQ', 'https://m.simtheory.ai/');
+                ap3c.track({v: 0});
+            });
+            ap3c.activity = function(act) { ap3c.act = (ap3c.act || []); ap3c.act.push(act); };
+            var s, t; s = document.createElement('script'); s.type = 'text/javascript'; s.src = "https://m.simtheory.ai/app.js";
+            t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+        </script>
+        <title>Simtheory: We can't find what you're looking for..</title>
+        <link href="https://simtheorylive.blob.core.windows.net/static/release/ststyles.ce34068d4b8f.css" rel="stylesheet">
+        <style>
+            :root {
+                --font-family: 'Inter', sans-serif;
+            }
+            
+            body {
+                font-family: var(--font-family);
+            }
+            
+            @media (max-width: 1023px) {
+                .mobile-layout {
+                    display: flex;
+                    flex-direction: column;
+                }
+                .mobile-layout > div:first-child {
+                    order: 1;
+                }
+                .mobile-layout > div:last-child {
+                    order: 2;
+                }
+            }
+        </style>
+    </head>
+    <body class="bg-white min-h-screen overflow-y-auto">
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M32DS87P"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        
+
+<div class="sticky top-0 bg-white/90 z-40">
+    <div class="relative">
+        <nav class="flex justify-between items-center py-5 mx-auto max-w-[1440px] px-6 sm:px-[65px]">
+            <div class="flex items-center">
+                <a href="/"><img src="https://res.cloudinary.com/dimqqmfx6/image/upload/v1752314028/website/new%20home/logoblack_gno56u.svg" alt="Simtheory Logo" class="h-[20px] w-auto"></a>
+            </div>
+
+            <div id="nav-menu" class="hidden lg:flex items-center space-x-2 text-base ml-8">
+                
+                <!--<a href="" id="features-menu" class="flex items-center text-black hover:text-[#3650E8] transition-colors duration-200 font-medium px-2 py-1.5 rounded-md hover:bg-blue-50">
+                    Features
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1 transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </a>-->
+                <a href="" id="workspace-menu" class="flex items-center text-black hover:text-[#3650E8] transition-colors duration-200 font-medium px-2 py-1.5 rounded-md hover:bg-blue-50">
+                    Workspaces
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1 transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </a>
+                <a href="/models/" id="models-menu" class="flex items-center text-black hover:text-[#3650E8] transition-colors duration-200 font-medium px-2 py-1.5 rounded-md hover:bg-blue-50">
+                    Models
+                </a>
+                <a href="/mcp-servers/" id="mcp-menu" class="flex items-center text-black hover:text-[#3650E8] transition-colors duration-200 font-medium px-2 py-1.5 rounded-md hover:bg-blue-50">
+                    MCPs
+                </a>
+                <a href="/pricing/" id="pricing-menu" class="flex items-center text-black hover:text-[#3650E8] transition-colors duration-200 font-medium px-2 py-1.5 rounded-md hover:bg-blue-50">
+                    Pricing
+                </a>
+                
+            </div>
+
+            <div class="flex items-center space-x-3 ml-auto">
+                
+                    <a href="/accounts/login/" class="hidden lg:block px-3 py-2 text-black text-sm sm:text-base">Log in</a>
+                    <a href="/accounts/register/" class="px-4 py-2 rounded-full bg-[#3650E8] text-white hover:bg-blue-700 transition-colors duration-200 text-sm sm:text-base">Sign up</a>
+                
+
+                <div class="lg:hidden flex items-center">
+                    <button id="mobile-menu-button" class="text-gray-900 focus:outline-none">
+                        <span id="mobile-menu-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                            </svg>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <div id="features-dropdown" class="hidden absolute left-0 right-0 w-full bg-white shadow-lg z-50 overflow-y-auto" style="max-height: 80vh;">
+            <div class="mx-auto max-w-[1440px] px-6 sm:px-[74px] py-6">
+                <div class="grid grid-cols-1 md:grid-cols-12 gap-6">
+                    <div class="md:col-span-3">
+                        <h3 class="text-sm font-normal text-gray-400 ml-2 mb-3 tracking-tight">WORKSPACE</h3>
+                        <div class="space-y-2">
+                            <a href="/features/models/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                    <i class="fas fa-layer-group text-white text-sm"></i>
+                                </div>
+                                <div>
+                                    <span class="text-lg text-gray-900">Frontier models</span>
+                                    <p class="text-sm text-gray-600 mt-0.5">Access all leading frontier models. Switch between models in the same session.</p>
+                                </div>
+                            </a>
+                            <a href="/features/ai-assistants/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                    <i class="fas fa-grid-2 text-white text-sm"></i>
+                                </div>
+                                <div>
+                                    <span class="text-lg text-gray-900">Assistants</span>
+                                    <p class="text-sm text-gray-600 mt-0.5">Access all leading frontier models. Switch between models in the same session.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="md:col-span-3">
+                        <h3 class="text-sm font-normal text-gray-400 mb-3 tracking-tight">CONTEXT</h3>
+                        <div class="space-y-2">
+                            <a href="/features/memory/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                    <i class="fas fa-brain text-white text-sm"></i>
+                                </div>
+                                <div>
+                                    <span class="text-lg text-gray-900">Memory</span>
+                                    <p class="text-sm text-gray-600 mt-0.5">Allow your assistants to build context over time</p>
+                                </div>
+                            </a>
+                            <a href="/features/screen-sharing/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                    <i class="fas fa-display text-white text-sm"></i>
+                                </div>
+                                <div>
+                                    <span class="text-lg text-gray-900">Screen sharing</span>
+                                    <p class="text-sm text-gray-600 mt-0.5">Share your screen throughout your day for instant context</p>
+                                </div>
+                            </a>
+                            <a href="/features/voice/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                    <i class="fas fa-waveform-lines text-white text-sm"></i>
+                                </div>
+                                <div>
+                                    <span class="text-lg text-gray-900">Voice</span>
+                                    <p class="text-sm text-gray-600 mt-0.5">Collaborate with your assistant with voice</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="md:col-span-6">
+                        <h3 class="text-sm font-normal text-gray-400 mb-3 tracking-tight">SKILLS</h3>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                            <div class="space-y-2">
+                                <a href="/features/web-search/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                    <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                        <i class="fas fa-search text-white text-sm"></i>
+                                    </div>
+                                    <div>
+                                        <span class="text-lg text-gray-900">Web search</span>
+                                        <p class="text-sm text-gray-600 mt-0.5">Generate professional-quality images with top models.</p>
+                                    </div>
+                                </a>
+                                <a href="/features/document-analysis-rag/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                    <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                        <i class="fas fa-file-alt text-white text-sm"></i>
+                                    </div>
+                                    <div>
+                                        <span class="text-lg text-gray-900">Document analysis</span>
+                                        <p class="text-sm text-gray-600 mt-0.5">Access all leading frontier models. Switch between models in the same session.</p>
+                                    </div>
+                                </a>
+                                <a href="/features/data-visualization/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                    <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                        <i class="fas fa-chart-simple text-white text-sm"></i>
+                                    </div>
+                                    <div>
+                                        <span class="text-lg text-gray-900">Data visualization</span>
+                                        <p class="text-sm text-gray-600 mt-0.5">Access all leading frontier models. Switch between models in the same session.</p>
+                                    </div>
+                                </a>
+                                <a href="/features/create-with-code/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                    <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                        <i class="fas fa-code text-white text-sm"></i>
+                                    </div>
+                                    <div>
+                                        <span class="text-lg text-gray-900">Create with code</span>
+                                        <p class="text-sm text-gray-600 mt-0.5">Create anything with code, without coding. Vibe coding.</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="space-y-2">
+                                <a href="/features/web-crawler/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                    <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                        <i class="fas fa-globe text-white text-sm"></i>
+                                    </div>
+                                    <div>
+                                        <span class="text-lg text-gray-900">Web crawl</span>
+                                        <p class="text-sm text-gray-600 mt-0.5">Allow your assistant to crawl websites to extract information.</p>
+                                    </div>
+                                </a>
+                                <a href="/features/youtube-ai/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                    <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                        <i class="fab fa-youtube text-white text-sm"></i>
+                                    </div>
+                                    <div>
+                                        <span class="text-lg text-gray-900">YouTube watch</span>
+                                        <p class="text-sm text-gray-600 mt-0.5">Summarize and extract information from YouTube Videos</p>
+                                    </div>
+                                </a>
+                                <a href="/features/computer-use/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                    <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                        <i class="fas fa-computer-mouse text-white text-sm"></i>
+                                    </div>
+                                    <div>
+                                        <span class="text-lg text-gray-900">Workspace computer</span>
+                                        <p class="text-sm text-gray-600 mt-0.5">Delegate computer based tasks to your assistant.</p>
+                                    </div>
+                                </a>
+                                <a href="/features/ai-image-generation/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-2.5 flex items-start">
+                                    <div class="flex-shrink-0 mr-3 w-8 h-8 bg-black rounded-full flex items-center justify-center">
+                                        <i class="fas fa-image text-white text-sm"></i>
+                                    </div>
+                                    <div>
+                                        <span class="text-lg text-gray-900">Image generation</span>
+                                        <p class="text-sm text-gray-600 mt-0.5">Generate professional-quality images with top models.</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="workspaces-dropdown" class="hidden absolute left-0 right-0 w-full bg-white shadow-lg z-50 overflow-y-auto" style="max-height: 80vh;">
+            <div class="mx-auto max-w-[1440px] px-6 sm:px-[74px] py-6">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+                    <a href="/workspace/team/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-3 flex pt">
+                        <div class="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mr-3 flex-shrink-0">
+                          <i class="fa-solid fa-users text-green-600 text-lg"></i>
+                        </div>
+                        <div>
+                            <span class="text-lg text-gray-900">Team Workspace</span>
+                            <p class="text-sm text-gray-600 mt-0.5">Transform team productivity with a unified AI workspace: all the models and tools your team needs.</p>
+                        </div>
+                    </a>
+                    <a href="/workspace/enterprise/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-3 flex">
+                        <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mr-3 flex-shrink-0">
+                            <i class="fa-solid fa-buildings text-purple-600 text-lg"></i>
+                        </div>
+                        <div>
+                            <span class="text-lg text-gray-900">Enterprise Workspace</span>
+                            <p class="text-sm text-gray-600 mt-0.5">Enterprise-grade security with SSO, custom deployment, and advanced AI capabilities</p>
+                        </div>
+                    </a>
+                    <a href="/workspace/education/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-3 flex">
+                        <div class="w-12 h-12 flex-shrink-0 bg-blue-100 rounded-lg flex items-center justify-center mr-3">
+                            <i class="fa-solid fa-graduation-cap text-blue-600 text-lg"></i>
+                        </div>
+                        <div>
+                            <span class="text-lg text-gray-900">Education Workspace</span>
+                            <p class="text-sm text-gray-600 mt-0.5">Empower students with equal access to AI models, research tools and modalities.</p>
+                        </div>
+                    </a>
+                    <a href="/workspace/family/" class="block hover:bg-blue-50 rounded-lg transition-colors duration-200 p-3 flex">
+                        <div class="w-12 h-12 flex-shrink-0 bg-red-100 rounded-lg flex items-center justify-center mr-3 ">
+                            <i class="fa-solid fa-home text-red-600 text-lg"></i>
+                        </div>
+                        <div>
+                            <span class="text-lg text-gray-900">Family Workspace</span>
+                            <p class="text-sm text-gray-600 mt-0.5">Affordable AI access for households - share one subscription with your whole family</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="grid grid-cols-1 lg:grid-cols-10 gap-6 mt-6 pt-6 border-t border-gray-200">
+                    <div class="lg:col-span-6 group">
+                        <a href="/watch-demo/" class="block bg-blue-50 hover:bg-blue-100 rounded-lg p-4 flex items-center transition-all duration-300 hover:shadow-md">
+                            <div class="w-12 h-12 flex-shrink-0 bg-[#3650E8] rounded-md flex items-center justify-center mr-4 shadow-md group-hover:shadow-lg group-hover:scale-105 transition-all duration-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                </svg>
+                            </div>
+                            <div class="flex-grow">
+                                <span class="text-lg text-gray-900 group-hover:text-[#3650E8] transition-colors duration-200 font-medium">Watch a video walkthrough of AI workspace</span>
+                                <p class="text-sm text-gray-600 mt-0.5">See how our AI workspace can transform your productivity in your organization</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="lg:col-span-4 group">
+                        <a href="/contact-sales/" class="block bg-gray-50 hover:bg-gray-100 rounded-lg p-4 flex items-center transition-all duration-300 hover:shadow-md h-full">
+                            <div class="w-12 h-12 flex-shrink-0 bg-gray-200 rounded-md flex items-center justify-center mr-4 shadow-md group-hover:shadow-lg group-hover:scale-105 transition-all duration-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+                                </svg>
+                            </div>
+                            <div class="flex-grow">
+                                <span class="text-lg text-gray-900 group-hover:text-gray-700 transition-colors duration-200 font-medium">Contact sales</span>
+                                <p class="text-sm text-gray-600 mt-0.5">Get personalized guidance</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="mobile-menu" class="hidden lg:hidden fixed top-[67px] left-0 right-0 bottom-0 z-50 bg-white overflow-y-auto border-t border-gray-200">
+            <div class="flex flex-col h-full">
+                <div class="flex-grow overflow-y-auto">
+                    <div class="px-6 py-4">
+                        <div class="space-y-4">
+                            <a href="/pricing/" class="block py-2 text-lg font-medium">Pricing</a>
+                            <div>
+                                <button id="mobile-features-button" class="flex items-center justify-between w-full py-2 text-lg font-medium">
+                                    Features
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+                                <div id="mobile-features-content" class="hidden mt-2 pl-2">
+                                </div>
+                            </div>
+                            <div>
+                                <button id="mobile-workspaces-button" class="flex items-center justify-between w-full py-2 text-lg font-medium">
+                                    Workspaces
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+                                <div id="mobile-workspaces-content" class="hidden mt-2 pl-2">
+                                </div>
+                            </div>
+                            <a href="/models/" class="block py-2 text-lg font-medium">Models</a>
+                            <a href="/mcp-servers/" class="block py-2 text-lg font-medium">MCP Servers</a>
+                            <a href="/support/" class="block py-2 text-lg font-medium">Support</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="px-6 py-4 border-t border-gray-200">
+                    
+                    <div class="space-y-3">
+                        <a href="/accounts/login/" class="block w-full px-4 py-3 text-center rounded-lg ring-1 ring-inset ring-gray-900 text-black">Log in</a>
+                        <a href="/accounts/register/" class="block w-full px-4 py-3 text-center rounded-lg bg-[#3650E8] text-white hover:bg-blue-700 transition-colors duration-200">Create a workspace</a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <script type="module" src="https://simtheorylive.blob.core.windows.net/static/release/nav.3e816a4cabbe.js" defer></script>
+        <div class="mx-auto max-w-[1440px] px-6 sm:px-16 relative">
+            
+<div id="container" class="grid xs:grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-12 xl:grid-cols-12 2xl:grid-cols-12 overflow-x-hidden">
+        <div class="col-start-4 col-end-10 relative rounded-md p-5 mt-10 space-y-1 mx-auto lg:mx-3 h-[600px]">
+            <div class="text-6xl text-gray-900 font-bold text-center">Don't panic!</div>
+            <div class="text-3xl text-gray-900 text-center font-medium pt-3">
+                <p class="font-semibold">But what you're looking for can't be found...</p>
+            </div>
+        </div>
+</div>
+
+        </div>
+        
+
+
+<footer class="bg-gray-800 text-gray-300 w-full px-6 sm:px-16 py-16 relative overflow-hidden">
+    <div class="relative z-10 max-w-[1440px] mx-auto">
+        <!-- Logo and tagline section -->
+        <div class="flex flex-col md:flex-row justify-between items-start mb-16">
+            <div class="mb-8 md:mb-0">
+                <p class="mt-4 text-base text-gray-400 max-w-md">
+                    Our mission is to help you get more done with AI. We're building the future of work, one workspace at a time.
+                </p>
+            </div>
+            
+            <!-- Social links -->
+            <div class="flex space-x-4">
+                <a href="https://x.com/simtheoryai" target="_blank" class="w-10 h-10 rounded-full bg-zinc-700/80 hover:bg-zinc-700 transition-all flex items-center justify-center group backdrop-blur-sm hover:shadow-[0_0_15px_rgba(59,130,246,0.3)]">
+                    <i class="fa-brands fa-x-twitter text-gray-400 group-hover:text-white transition-colors"></i>
+                </a>
+                <a href="https://www.youtube.com/@simtheoryai" target="_blank" class="w-10 h-10 rounded-full bg-zinc-700/80 hover:bg-zinc-700 transition-all flex items-center justify-center group backdrop-blur-sm hover:shadow-[0_0_15px_rgba(168,85,247,0.3)]">
+                    <i class="fa-brands fa-youtube text-gray-400 group-hover:text-white transition-colors"></i>
+                </a>
+                <a href="https://discord.gg/Ar6GeQnAR7" target="_blank" class="w-10 h-10 rounded-full bg-zinc-700/80 hover:bg-zinc-700 transition-all flex items-center justify-center group backdrop-blur-sm hover:shadow-[0_0_15px_rgba(99,102,241,0.3)]">
+                    <i class="fa-brands fa-discord text-gray-400 group-hover:text-white transition-colors"></i>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Navigation links container -->
+        <div class="grid grid-cols-2 md:grid-cols-5 gap-x-6 gap-y-12">
+            <!-- Top Row Items -->
+            <div>
+                <h3 class="text-white text-sm mb-6 tracking-wide">WORKSPACES</h3>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="/workspace/team/" class="text-gray-400 hover:text-white transition-colors">Team workspace</a></li>
+                    <li><a href="/workspace/enterprise/" class="text-gray-400 hover:text-white transition-colors">Enterprise workspace</a></li>
+                    <li><a href="/workspace/education/" class="text-gray-400 hover:text-white transition-colors">Education workspace</a></li>
+                    <li><a href="/workspace/family/" class="text-gray-400 hover:text-white transition-colors">Family workspace</a></li>
+                </ul>
+            </div>
+
+           
+            
+            <div>
+                <h3 class="text-white text-sm mb-6 tracking-wide">FEATURES</h3>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="/features/models/" class="text-gray-400 hover:text-white transition-colors">Frontier models</a></li>
+                    <li><a href="/features/ai-assistants/" class="text-gray-400 hover:text-white transition-colors">Assistants</a></li>
+                    <li><a href="/features/memory/" class="text-gray-400 hover:text-white transition-colors">Memory</a></li>
+                    <li><a href="/features/screen-sharing/" class="text-gray-400 hover:text-white transition-colors">Screen sharing</a></li>
+                    <li><a href="/features/voice/" class="text-gray-400 hover:text-white transition-colors">Voice</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h3 class="text-white text-sm mb-6 tracking-wide">MODELS</h3>
+                <ul class="space-y-2 text-sm">
+                    
+                        <li><a href="/model-card/claude-4.5-haiku/" class="text-gray-400 hover:text-white transition-colors">Claude 4.5 Haiku</a></li>
+                    
+                        <li><a href="/model-card/claude-4.5-sonnet/" class="text-gray-400 hover:text-white transition-colors">Claude 4.5 Sonnet</a></li>
+                    
+                        <li><a href="/model-card/gpt-5/" class="text-gray-400 hover:text-white transition-colors">GPT-5</a></li>
+                    
+                        <li><a href="/model-card/gemini-2.5-pro/" class="text-gray-400 hover:text-white transition-colors">Gemini 2.5 Pro</a></li>
+                    
+                    <li class="pt-2">
+                        <a href="/models/" class="text-gray-400 hover:text-white transition-colors font-medium">All models &rarr;</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div>
+                <h3 class="text-white text-sm mb-6 tracking-wide">MCP DIRECTORY</h3>
+                <ul class="space-y-2 text-sm">
+                    
+                        <li><a href="/mcp-servers/m365-todo/" class="text-gray-400 hover:text-white transition-colors">Microsoft To Do</a></li>
+                    
+                        <li><a href="/mcp-servers/m365-users/" class="text-gray-400 hover:text-white transition-colors">Microsoft 365 Users</a></li>
+                    
+                        <li><a href="/mcp-servers/sora_pro/" class="text-gray-400 hover:text-white transition-colors">Sora 2 Pro</a></li>
+                    
+                        <li><a href="/mcp-servers/sora/" class="text-gray-400 hover:text-white transition-colors">Sora 2</a></li>
+                    
+                        <li><a href="/mcp-servers/render/" class="text-gray-400 hover:text-white transition-colors">Render.com</a></li>
+                    
+                        <li><a href="/mcp-servers/m365-excel/" class="text-gray-400 hover:text-white transition-colors">Microsoft Excel</a></li>
+                    
+                    <li class="pt-2">
+                        <a href="/mcp-servers/" class="text-gray-400 hover:text-white transition-colors font-medium">All MCPs &rarr;</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div>
+                <h3 class="text-white text-sm mb-6 tracking-wide">SUPPORT</h3>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="https://help.simtheory.ai" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-white transition-colors">Documentation</a></li>
+                    <li><a href="https://www.youtube.com/@simtheoryai" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-white transition-colors">Video tutorials</a></li>
+                    <li><a href="/support/" class="text-gray-400 hover:text-white transition-colors">Support</a></li>
+                </ul>
+            </div>
+
+
+            <div>
+                <h3 class="text-white text-sm mb-6 tracking-wide">RESOURCES</h3>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="https://help.simtheory.ai/c-7-release-notes" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-white transition-colors">Release notes</a></li>
+                    <li><a href="https://podcast.thisdayinai.com" class="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">"This Day in AI" Podcast</a></li>
+                    <li><a href="https://status.simtheory.ai" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-white transition-colors">Service status</a></li>
+                    <li><a href="/what-is-vibe-coding/" class="text-gray-400 hover:text-white transition-colors">What is vibe coding?</a></li>
+                    <li><a href="/best-mcp-clients/" class="text-gray-400 hover:text-white transition-colors">Best MCP Clients</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h3 class="text-white text-sm mb-6 tracking-wide">COMPANY</h3>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="/contact-sales/" class="text-gray-400 hover:text-white transition-colors">Talk to sales</a></li>
+                    <li><a href="/about/" class="text-gray-400 hover:text-white transition-colors">About</a></li>
+                    <li><a href="/privacy/" class="text-gray-400 hover:text-white transition-colors">Privacy</a></li>
+                    <li><a href="/terms/" class="text-gray-400 hover:text-white transition-colors">Terms of use</a></li>
+                    <li><a href="/contact/" class="text-gray-400 hover:text-white transition-colors">Contact</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h3 class="text-white text-sm mb-6 tracking-wide">SECURITY</h3>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="/bug-bounty/" class="text-gray-400 hover:text-white transition-colors">Bug bounty</a></li>
+                    <li><a href="/no-training/" class="text-gray-400 hover:text-white transition-colors">No training policy</a></li>
+                </ul>
+            </div>
+
+           
+        </div>
+        
+        <div class="mt-16 pt-8 border-t border-zinc-800/50">
+            <div class="flex flex-col md:flex-row justify-between items-center mb-6">
+                <div class="flex items-center space-x-4 mb-4 md:mb-0">
+                    <div class="rounded-md m-0.5 ring-1 ring-gray-800 flex flex-shrink-0"><img src="https://res.cloudinary.com/dimqqmfx6/image/upload/v1742770946/website/UNEweblogo_js3sxc.png" 
+                        alt="UNE Logo" 
+                        class="h-16 w-16 rounded-md"></div>
+                    <p class="text-sm text-gray-400">Proudly delivering world-class AI education in partnership with <a href="https://une.edu.au" target="_blank">UNE</a></p>
+                </div>
+                
+                <p class="text-sm text-gray-500">© 2025 Simtheory. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+        <script type="module" src="https://simtheorylive.blob.core.windows.net/static/release/runtime.3126d0d41736.js"></script>
+        <script type="module" src="https://simtheorylive.blob.core.windows.net/static/release/vendors-public.19f49ddef690.js"></script>
+        <script type="module" src="https://simtheorylive.blob.core.windows.net/static/release/homepage2.e55edbcdcbad.js"></script>
+        
+        <script src="https://kit.fontawesome.com/62a940f3be.js" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="./favicon.png?v=3" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+		<link href="./_app/immutable/assets/0.0Dut91ZC.css" rel="stylesheet"><!--[--><meta name="description" content="The fastest AI chatbot for ChatGPT, DeepSeek, Claude, Gemini and Llama"/> <meta property="og:title" content="ChatWise"/> <meta property="og:description" content="The fastest AI chatbot for ChatGPT, DeepSeek, Claude, Gemini and Llama"/><!--]--><title>ChatWise - The fastest AI chatbot for ChatGPT, DeepSeek, Claude, Gemini and Llama</title>
+  </head>
+  <body data-sveltekit-preload-data="hover" class="bg-zinc-50">
+    <div style="display: contents"><!--[--><!--[--><!----><!----><!--[!--><!----><h1>404</h1> <p>Not Found</p><!----><!--]--><!----><!----><!----> <section aria-label="Notifications alt+T" tabindex="-1" aria-live="polite" aria-relevant="additions text" aria-atomic="false" class="svelte-214svo"><!--[!--><!--]--></section><!----> <footer class="mt-10 border-t"><div class="mx-auto flex max-w-screen-lg flex-col items-center justify-between gap-3 px-5 py-10 md:flex-row"><div class="inline-flex items-center gap-2 text-xs md:text-sm"><span>© 2025 ChatWise</span> <span>·</span> <a href="https://docs.chatwise.app/affiliate-links" target="_blank" class="text-blue-500">Affiliate Links</a> <span>·</span> <a href="/privacy" class="text-blue-500">Privacy</a></div> <div class="flex items-center gap-4 text-lg"><a aria-labelledby="discord" href="https://chatwise.app/discord" target="_blank" class="text-indigo-500"><span class="i-simple-icons-discord"></span></a> <a aria-labelledby="twitter" href="https://chatwise.app/twitter" target="_blank" class="text-sky-500"><span class="i-simple-icons-twitter"></span></a> <a aria-labelledby="github" href="https://chatwise.app/github" target="_blank"><span class="i-simple-icons-github"></span></a></div></div></footer><!----><!--]--> <!--[!--><!--]--><!--]-->
+			
+			<script>
+				{
+					__sveltekit_19r3mop = {
+						base: new URL(".", location).pathname.slice(0, -1)
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("./_app/immutable/entry/start.BOVNe2nX.js"),
+						import("./_app/immutable/entry/app.D9fYc7yI.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 1],
+							data: [null,null],
+							form: null,
+							error: {message:"Not Found"},
+							status: 404
+						});
+					});
+				}
+			</script>
+		</div>
+  </body>
+</html>
